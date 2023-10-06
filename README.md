@@ -16,8 +16,6 @@ PyBank Instructions:
 6) The greatest decrease in profits (date and amount) over the entire period
 
 References Cited: I used: https://www.geeksforgeeks.org/python-get-key-with-maximum-value-in-dictionary/
-
-                         as well as Chegg and StackOverflow information from Google searches
-                  
-                  I worked with a Tutor, Asiha Braxton-Garvin, to help with code on both PyBank and PyPoll
+ I also used information from Chegg and StackOverflow from Google searches for various coding questions
+  I worked with a Tutor, Asiha Braxton-Garvin, to help with code on both PyBank and PyPoll
                   
